@@ -38,7 +38,7 @@ Check out the blog post **How to spin up Kubernetes on-demand with Instruqt the 
 I applied the PAS formula for this post:
 - Problem
 - Agitation
-- Solution
+- Solution (including a call to action)
 
 #### Tone
 I wrote the post to be informal, conversational, and convincing.
