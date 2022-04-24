@@ -44,7 +44,7 @@ I applied the PAS formula for this post:
 I wrote the post to be informal, conversational, and convincing.
 
 #### Style
-And I applied the storytelling principal.
+Since this is an informative post, I have applied the storytelling principle to engage the reader.
 
 #### Readability score
 According to the Grammarly tool, the Flesch reading-ease score of the post is 73. Meaning the post is likely to be understood by a reader who has at least a 7th-grade education (age 12) and should be easy for most adults to read.
