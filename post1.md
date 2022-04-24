@@ -10,7 +10,7 @@ Let's be honest about Kubernetes. Using it is easy. But setting up Kubernetes is
 
 Imagine that prospect you have been working on for weeks finally bites: "Okay, I want to try your software and set up a proof of concept." Your heart jumps when you hear these words, but your prospect isn't finished yet: "The proof of concept needs to be done in Kubernetes, but that won't be a problem, would it?"
 
-O, no, not Kubernetes, bangs through your head. Please, let me misunderstand. But you didn't. Well, maybe there is an escape. So you suggest: "Does your IT department have experience with Kubernetes?" The prospect chuckles: "Yes, they do, but they are on a team-building. So, I have to do it myself." You bow your head. The only thing you can do is send the megabytes of Kubernetes setup instructions and hope for the best.
+O, no, not Kubernetes, bangs through your head. Please, let me misunderstand. But you didn't. Well, maybe there is an escape. So you suggest: "Does your IT department have experience with Kubernetes?" The prospect checks and gets back to you: "Yes, they do, but they are on a team-building. So, I have to do it myself." You bow your head. The only thing you can do is send the megabytes of Kubernetes setup instructions and hope for the best.
 
 "I will let you know," are the prospect's last words. The next day you send an email to follow up. And the day after, you leave a voice mail. But it stays silent. A doomsday feeling starts creeping in, and a few weeks later, you hear from a former colleague that the prospect has chosen your competitor.
 <p align="center">  <img width="150" height="175" src="https://i.ibb.co/QXcVBgh/Stopwatch.png">  </p>
