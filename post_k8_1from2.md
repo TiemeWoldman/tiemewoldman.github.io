@@ -15,7 +15,7 @@ O, no, not Kubernetes, bangs through your head. Please, let me misunderstand. Bu
 "I will let you know," are the prospect's last words. The next day you send an email to follow up. And the day after, you leave a voice mail. But it stays silent. A doomsday feeling starts creeping in, and a few weeks later, you hear from a former colleague that the prospect has chosen your competitor.
 <p align="center">  <img width="150" height="175" src="https://i.ibb.co/QXcVBgh/Stopwatch.png">  </p>
 
-## Instruqt: The one-minute Kubernetes on-demand solution
+## The one-minute Kubernetes on-demand solution
 "I'm not sure," says your former colleague, "but the rumor is that your competitor works with Instruqt. And these guys can spin up Kubernetes on-demand in only a minute." Your mouth falls open, and you gasp. This can't be true.
 
 ### One minute
