@@ -53,7 +53,7 @@ According to the Grammarly tool, the Flesch reading-ease score of the post is 73
 2 minutes
 
 #### Images
-Excalidraw — to keep in line with the documentation
+Drawn with Excalidraw to keep the images in line with the documentation.
 
 ### Alternative headlines
 #### Have you ever wished to spin up Kubernetes on-demand in only a minute? Sure you have. And now you can.
