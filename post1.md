@@ -3,7 +3,7 @@
 
 # Have you ever wished to spin up Kubernetes on-demand in only a minute? Now you can. 
 
-Let's be honest about Kubernetes. Using it is easy. But setting up Kubernetes is a whole different story because of its complexity. You have to be an expert to set up Kubernetes, and even then, it can take hours to create a working environment. Far from ideal when your online learners first need to wade through an instructional swamp to set up Kubernetes before they can work with your software. So, you keep your fingers crossed that they don't, but you would understand if your learners drop out.
+Let's be honest about Kubernetes. Using it is easy. But setting up Kubernetes is a whole different story because of its complexity. You have to be an expert to set up Kubernetes, and even then, it can take hours to create a working environment. Far from ideal when you want to introduce your software or train people and they first need to wade through an instructional swamp to set up Kubernetes before they can work with your software. So, you keep your fingers crossed that they don't, but you would understand if they drop out.
  
 
 ## Your worst nightmare
