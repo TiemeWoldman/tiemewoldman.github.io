@@ -16,13 +16,13 @@ O, no, not Kubernetes, bangs through your head. Please, let me misunderstand. Bu
 <p align="center">  <img width="150" height="175" src="https://i.ibb.co/QXcVBgh/Stopwatch.png">  </p>
 
 ## The one-minute Kubernetes on-demand solution
-"Your competitor works with Instruqt," says your former prospect, "And these guys can spin up Kubernetes on-demand in only a minute. Really awesome." You shake your head in disbelieve. Kubernetes is one minute? This can't be true.
+"Your competitor works with Instruqt," says your former prospect, "And these guys can spin up Kubernetes on-demand in only a minute. Really awesome." You shake your head in disbelief. Kubernetes is one minute? This can't be true.
 
 ### One minute
-But, indeed, it is true. Instruqt will only take you one minute to spin up Kubernetes. So, you will never lose a prospect again due to Kubernetes setup times. Furthermore, your learners will love the on-demand Kubernetes working environment where they can play around. When they are done, the environment is simply destroyed. And if they want to play again, Kubernetes is set up again in no time. Without any hustle. Still doubting if this really can be true? Then hear what [Sr. Developer Advocate Kostis Kapelonis from Codefresh](https://www.linkedin.com/feed/update/urn:li:activity:6921811564136132608) says on this.
+But, indeed, it is true. Instruqt will only take you one minute to spin up Kubernetes. So, you will never lose a prospect again due to Kubernetes setup times. Furthermore, your learners will love the on-demand Kubernetes working environment where they can play around. When they are done, the environment is simply destroyed. And if they want to play again, Kubernetes is set up again in no time. Without any hustle. Are you still doubting if this really can be true? Then hear what [Sr. Developer Advocate Kostis Kapelonis from Codefresh](https://www.linkedin.com/feed/update/urn:li:activity:6921811564136132608) says on this.
 
 ### Even works on a basic laptop
-Okay, but how does Instruqt do this? is probably your next question. Well, Instruqt is an online virtual IT lab that sets sandbox environments where your learners, customers, and prospects can play and work with your software. Instruqt works fully online, even on a basic laptop. And Instruqt has already set up templates for everyday sandbox environments like Kubernetes for you. So all the hard work is done, and your learners, customers, and prospects just spin up Kubernetes on-demand and go.
+Okay, but how does Instruqt do this? might be your next question. Instruqt is an online virtual IT lab that sets sandbox environments where your learners, customers, and prospects can play and work with your software. Instruqt works fully online, even on a basic laptop. And Instruqt has already set up templates for everyday sandbox environments like Kubernetes for you. So all the hard work is done, and your learners, customers, and prospects just spin up Kubernetes on-demand and go.
 
 ### Want to see this for yourself? 
 Check out the blog post **How to spin up Kubernetes on-demand with Instruqt the one-minute way** to see this for yourself. You will get a free test-drive with Instruqt and set up Kubernetes in less time than it took you to read this post.
@@ -47,7 +47,7 @@ I wrote the post to be informal, conversational, and convincing.
 Since this is an informative post, I have applied the storytelling principle to engage the reader.
 
 #### Readability score
-According to the Grammarly tool, the Flesch reading-ease score of the post is 73. Meaning the post is likely to be understood by a reader who has at least a 7th-grade education (age 12) and should be easy for most adults to read.
+According to the Grammarly tool, the Flesch reading-ease score of the post is 72. Meaning the post is likely to be understood by a reader who has at least a 7th-grade education (age 12) and should be easy for most adults to read.
 
 #### Reading time
 2 minutes
